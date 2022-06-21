@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636394635 source:c:\users\acs\desktop\coding\c&c++\project1\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
